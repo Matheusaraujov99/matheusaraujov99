@@ -89,4 +89,8 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
   />
 </p>
 
+<br/>
+<br/>
+<br/>
+
 ![snake gif](https://github.com/matheusaraujov99/matheusaraujov99/blob/output/github-contribution-grid-snake.svg)
