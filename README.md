@@ -76,7 +76,7 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusaraujov99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -84,7 +84,7 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
   <img 
     align="left" 
     alt="Top Langs" 
-    height="180" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujov99&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias" 
   />
 </p>
