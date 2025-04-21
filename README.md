@@ -88,3 +88,5 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujov99&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias" 
   />
 </p>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
