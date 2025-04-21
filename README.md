@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
 </a>
 
 <a href = "matheusaraujov99@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank alt="Meu e-mail para contato">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Meu e-mail para contato">
 </a>
 
 <a href="https://github.com/matheusaraujov99?tab=repositories&sort=stargazers" title="Meus repositórios no GitHub">
