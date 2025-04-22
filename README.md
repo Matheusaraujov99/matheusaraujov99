@@ -1,6 +1,6 @@
-# 🧑‍💻 Matheus Vieira
+# 🧑‍💻 Oii! Eu sou o Matheus Araújo
 
-Me chamo Matheus Araújo Vieira, tenho 24 anos e sou natural de Jundiaí - SP. Concluí o ensino médio no Colégio Anglo e atualmente estou no 6º semestre do curso de Ciências da Computação na Faculdade Anchieta.
+Tenho 24 anos e sou natural de Jundiaí - SP. Concluí o ensino médio no Colégio Anglo e atualmente estou no 6º semestre do curso de Ciências da Computação na Faculdade Anchieta.
 Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas. Trabalho hoje como analista pleno na área financeira, mas estou em processo de transição de carreira. Estou me especializando e fazendo diversos cursos pela Alura para me tornar desenvolvedor front-end, que é onde realmente me encontro e o que mais amo fazer.
 
 <a href="https://www.linkedin.com/in/matheus-araújo-b8b092227/" title="Meu LinkedIn">
@@ -80,7 +80,7 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusaraujov99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -88,7 +88,7 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
   <img 
     align="left" 
     alt="Top Langs" 
-    height="150" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujov99&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias" 
   />
 </p>
@@ -97,13 +97,6 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
 <br/>
 <br/>
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-Generates a snake game from a github user contributions graph
 
 <picture>
   <source
