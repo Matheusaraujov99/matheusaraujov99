@@ -11,12 +11,12 @@ Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Meu e-mail para contato">
 </a>
 
-<a href="https://github.com/matheusaraujov99?tab=repositories&sort=stargazers" title="Meus repositórios no GitHub">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/matheusaraujov99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Estrelas no GitHub">
+<a href="https://github.com/Matheusaraujov99?tab=repositories&sort=stargazers" title="Meus repositórios no GitHub">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Matheusaraujov99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="Estrelas no GitHub">
 </a>
 
-<a href="https://github.com/matheusaraujov99?tab=followers" title="Meus seguidores no GitHub">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/matheusaraujov99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores no GitHub">
+<a href="https://github.com/Matheusaraujov99?tab=followers" title="Meus seguidores no GitHub">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Matheusaraujov99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores no GitHub">
 </a>
 
 ---
