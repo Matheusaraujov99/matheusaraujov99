@@ -39,9 +39,9 @@ Estou me especializando e fazendo diversos cursos pela Alura para me tornar dese
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujov99&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias&cache_seconds=3600" alt="Top Languages"/>
 
+
 </div>
 
----
 
 ## 🐍 Contribuições
 
