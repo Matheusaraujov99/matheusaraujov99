@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Oi%2C+sou+o+Matheus%2C+futuro+desenvolvedor+Java." alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&width=435&lines=Oi%2C+sou+o+Matheus%2C+futuro+desenvolvedor+Java." alt="Typing SVG" /></a>
 
 Tenho 24 anos e sou natural de Jundiaí - SP. Concluí o ensino médio no Colégio Anglo e atualmente estou no 6º semestre do curso de Ciências da Computação na Faculdade Anchieta.  
 Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.  
