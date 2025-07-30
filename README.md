@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### 👋 Olá! Seja bem-vindo(a) ao meu perfil
+### Olá! Seja bem-vindo(a) ao meu perfil
 
 🎓 Tenho 24 anos e sou de Jundiaí-SP. Estou no 6º semestre de Ciência da Computação na Faculdade Anchieta.  
 💼 Trabalho como analista pleno na área financeira, mas estou em transição de carreira para desenvolvimento.  
