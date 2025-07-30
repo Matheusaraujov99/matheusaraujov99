@@ -1,12 +1,18 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1000&width=435&lines=Matheus+Ara%C3%BAjo+%7C+Desenvolvedor+Java+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=1000&lines=Matheus+Ara%C3%BAjo+%7C+Desenvolvedor+Java+em+Forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+</div>
 
-Tenho 24 anos e sou natural de Jundiaí - SP. Concluí o ensino médio no Colégio Anglo e atualmente estou no 6º semestre do curso de Ciências da Computação na Faculdade Anchieta.  
-Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.  
-Atualmente trabalho como analista pleno na área financeira, mas estou em transição de carreira.  
-Estou me especializando e fazendo diversos cursos pela Alura para me tornar desenvolvedor front-end, que é onde realmente me encontro e o que mais amo fazer.
+### 👋 Olá! Seja bem-vindo(a) ao meu perfil
+
+🎓 Tenho 24 anos e sou de Jundiaí-SP. Estou no 6º semestre de Ciência da Computação na Faculdade Anchieta.  
+💼 Trabalho como analista pleno na área financeira, mas estou em transição de carreira para desenvolvimento.  
+🚀 Tenho foco em **Java** e backend, mas também estou me aprofundando em tecnologias de **front-end** modernas.  
+📚 Estudo ativamente na plataforma **Alura**, desenvolvendo projetos e evoluindo minhas habilidades práticas.
 
 <div align="center">
-
+  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b8b092227/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusaraujov99@gmail.com)
 [![Estrelas](https://custom-icon-badges.demolab.com/github/stars/Matheusaraujov99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Matheusaraujov99?tab=repositories&sort=stargazers)
@@ -16,20 +22,19 @@ Estou me especializando e fazendo diversos cursos pela Alura para me tornar dese
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" />
 
 </div>
-
----
+<br><br>
 
 ## 📊 Estatísticas
 
@@ -43,14 +48,14 @@ Estou me especializando e fazendo diversos cursos pela Alura para me tornar dese
 </div>
 
 
-## 🐍 Contribuições
+## 📈 Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
