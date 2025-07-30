@@ -1,15 +1,16 @@
-# 🧑‍💻 Oii! Eu sou o Matheus Araújo
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Oi%2C+sou+o+Matheus%2C+futuro+desenvolvedor+Java." alt="Typing SVG" /></a>
 
-Tenho 24 anos e sou natural de Jundiaí - SP. Concluí o ensino médio no Colégio Anglo e atualmente estou no 6º semestre do curso de Ciências da Computação na Faculdade Anchieta.  
-Sou apaixonado por tecnologia — adoro criar, desenvolver e resolver problemas.  
-Atualmente trabalho como analista pleno na área financeira, mas estou em transição de carreira.  
-Estou me especializando e fazendo diversos cursos pela Alura para me tornar desenvolvedor front-end, que é onde realmente me encontro e o que mais amo fazer.
+Tenho 24 anos, sou natural de Jundiaí - SP e estou no 6º semestre de Ciências da Computação na Faculdade Anchieta.  
+Sou apaixonado por tecnologia e adoro criar, desenvolver e resolver problemas.  
+
+Atualmente, trabalho como analista pleno na área financeira, mas estou em transição de carreira para o desenvolvimento front-end, minha verdadeira paixão.  
+Estou me especializando com cursos pela Alura para crescer nessa área.
 
 <div align="center">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b8b092227/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusaraujov99@gmail.com)
-[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/Matheusaraujov99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Matheusaraujov99?tab=repositories&sort=stargazers)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araújo-b8b092227/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusaraujov99@gmail.com)  
+[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/Matheusaraujov99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Matheusaraujov99?tab=repositories&sort=stargazers)  
 [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Matheusaraujov99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Matheusaraujov99?tab=followers)
 
 </div>
