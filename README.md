@@ -6,7 +6,7 @@
 
 ### Olá! Seja bem-vindo(a) ao meu perfil
 
-🎓 Tenho 24 anos e sou de Jundiaí-SP. Estou no 6º semestre de Ciência da Computação na Faculdade Anchieta.  
+🎓 Tenho 26 anos e sou de Jundiaí-SP. Estou no 8º semestre de Ciência da Computação na Faculdade Anchieta.  
 💼 Trabalho como analista pleno na área financeira, mas estou em transição de carreira para desenvolvimento.  
 🚀 Tenho foco em **Java** e backend, mas também estou me aprofundando em tecnologias de **front-end** modernas.  
 📚 Estudo ativamente na plataforma **Alura**, desenvolvendo projetos e evoluindo minhas habilidades práticas.
